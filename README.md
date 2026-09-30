@@ -3,7 +3,7 @@ Simple Visual Studio C++ project template for ease of use.
 Feel Free to edit, Have fun!
 
 
-## Build Outputs
+#### Build Outputs
 
 'Common.props' contains shared properties across the projects feel free to edit.
 
