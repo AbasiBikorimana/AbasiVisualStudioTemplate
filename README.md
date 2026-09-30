@@ -9,6 +9,7 @@ Feel Free to edit, Have fun!
 
 Build outputs are organized under the solution directory:
 
+```text
 bin/
 ├── x64/
 │   └── Debug/
@@ -23,6 +24,7 @@ bin/
     └── SecondDefault/
         └── x64/
             └── Debug/
+```
 
 
   Output structure may change depending on the selected platform and build configuration
